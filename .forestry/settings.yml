@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5d38a0da8e38a20010f7891a/webhook/forestry
 sections:
+- type: heading
+  label: Hello
 - type: document
   path: _config.yml
   label: Global Site Config
